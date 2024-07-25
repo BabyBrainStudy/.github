@@ -6,6 +6,8 @@ This page is under construction...
 * Sohye Kim
 * David Kennedy
 * Steve Hodge
+* Christian Haselgrove
+* Ananya Kumar
 * Others to be added...
 
 # Our Organizations:
